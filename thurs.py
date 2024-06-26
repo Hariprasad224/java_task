@@ -1,0 +1,1 @@
+print("Definitely not Thursday")

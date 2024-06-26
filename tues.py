@@ -1,1 +1,1 @@
-print("Tuesday is second day")
+print("Tuesday is the second day")
