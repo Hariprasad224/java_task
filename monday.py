@@ -1,1 +1,1 @@
-print("Today is not Monday")
+print("Today is not Monday9999")
