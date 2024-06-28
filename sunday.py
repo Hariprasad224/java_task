@@ -1,1 +1,1 @@
-print("Finally Sunday !!!!")
+print("Finally Sunday !0000000000000000!!!")
