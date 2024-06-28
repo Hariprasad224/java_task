@@ -1,1 +1,1 @@
-print("Yay!! this is Friday")
+print("Yay!! this is Friday !!!!!")
